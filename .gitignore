@@ -1,1 +1,3 @@
-node-modual
+node_module
+package-lock.json
+.env
